@@ -1,6 +1,6 @@
 # Awesome-Video-Annotation-Platform
 
-# Top Video Annotation Platforms Ecosystem
+## Top Video Annotation Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Video Object Tracking, Frame-Level Labeling, Segmentation, Keypoints, AI-Assisted Annotation & Dataset Quality Workflows*
 **Last updated: August 2026**
