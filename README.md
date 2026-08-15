@@ -20,35 +20,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[SuperAnnotate](https://www.superannotate.com/)**  
-  Collaborative annotation platform with strong QA workflows, AI-assisted labeling, and support for images, video, text, and multimodal datasets.
 
-- **[Encord](https://encord.com/)**  
-  Enterprise platform specialized in high-quality video, medical imaging (DICOM), and multimodal annotation with advanced tracking, consensus, and active-learning features.
-
-- **[V7 Labs (Darwin)](https://www.v7labs.com/)**  
-  Annotation and dataset platform strong in medical, life-sciences, and complex visual data, with auto-annotation, video tracking, and broad format support.
-
-- **[Dataloop](https://dataloop.ai/)**  
-  End-to-end data management and annotation platform covering video and other modalities with pipeline and automation capabilities.
-
-- **[Labelbox](https://labelbox.com/)**  
-  Mature enterprise labeling platform supporting video, images, text, and more, with strong MLOps integrations and model-assisted workflows.
-
-- **[Kili Technology](https://kili-technology.com/)**  
-  Annotation platform focused on quality, project management, and support for computer-vision and other data types including video.
-
-- **[CVAT (Cloud / Enterprise offerings)](https://www.cvat.ai/)**  
-  Leading computer-vision annotation tool available as open-source, hosted cloud, and enterprise editions with robust video and 3D support.
-
-- **[Supervisely](https://supervisely.com/)**  
-  Computer-vision platform offering annotation, dataset management, and neural-network training tools with video and 3D capabilities.
-
-- **[Deepen AI](https://www.deepen.ai/)**  
-  Annotation and data platform oriented toward autonomous systems, sensor fusion, and advanced 3D/video labeling workflows.
-
-- **[Scale AI](https://scale.com/)**  
-  Enterprise data platform combining software with managed annotation workforces, supporting video, images, 3D, and large-scale labeling programs.
+| Platform | Description | Pricing | Free Tier Limit |
+|----------|-------------|---------|-----------------|
+| **[SuperAnnotate](https://www.superannotate.com/)** | Collaborative annotation platform with strong QA workflows, AI-assisted labeling, and support for images, video, text, and multimodal datasets. | Contact Sales for Enterprise Quote | 1,000 compute hours |
+| **[Encord](https://encord.com/)** | Enterprise platform specialized in high-quality video, medical imaging (DICOM), and multimodal annotation with advanced tracking, consensus, and active-learning features. | Contact Sales for Enterprise Quote | 25,000 images/frames (Active Open Source) |
+| **[V7 Labs (Darwin)](https://www.v7labs.com/)** | Annotation and dataset platform strong in medical, life-sciences, and complex visual data, with auto-annotation, video tracking, and broad format support. | Contact Sales (Legacy ~ $499/mo) | 1 Workspace, 10 Users, 100 Items |
+| **[Dataloop](https://dataloop.ai/)** | End-to-end data management and annotation platform covering video and other modalities with pipeline and automation capabilities. | Contact Sales for Enterprise Quote | 14-day free trial |
+| **[Labelbox](https://labelbox.com/)** | Mature enterprise labeling platform supporting video, images, text, and more, with strong MLOps integrations and model-assisted workflows. | $0.10 per LBU | 500 Labelbox Units (LBUs) / month |
+| **[Kili Technology](https://kili-technology.com/)** | Annotation platform focused on quality, project management, and support for computer-vision and other data types including video. | Contact Sales for Enterprise Quote | 200 assets, 2 team seats |
+| **[CVAT (Cloud / Enterprise offerings)](https://www.cvat.ai/)** | Leading computer-vision annotation tool available as open-source, hosted cloud, and enterprise editions with robust video and 3D support. | Contact Sales for Enterprise Quote | 10 tasks, 500 MB storage |
+| **[Supervisely](https://supervisely.com/)** | Computer-vision platform offering annotation, dataset management, and neural-network training tools with video and 3D capabilities. | €199/month (Pro) | 5 GB storage, 10,000 files, 500 Smart Tool requests/day |
+| **[Deepen AI](https://www.deepen.ai/)** | Annotation and data platform oriented toward autonomous systems, sensor fusion, and advanced 3D/video labeling workflows. | Contact Sales for Enterprise Quote | 14-day free trial by request |
+| **[Scale AI](https://scale.com/)** | Enterprise data platform combining software with managed annotation workforces, supporting video, images, 3D, and large-scale labeling programs. | Pay-As-You-Go per unit | First 1,000 labeling units, 10,000 images |
 
 ## Open-Source GitHub Projects
 - **[CVAT (Computer Vision Annotation Tool)](https://github.com/cvat-ai/cvat)**  
